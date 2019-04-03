@@ -1,13 +1,16 @@
 # windows_form
 
-windowsForm
-OUTILS:
 
-Visual Studio
-C#
-Windows Form
-Git
-TP: Fenêtre Mère/Fille
+
+<b>OUTILS:</b>
+
+- Visual Studio
+- C#
+- Windows Form
+- Git
+
+
+<b>TP: Fenêtre Mère/Fille</b>
 
 L'objectif de ce projet est de gérer deux fenêtres communiquantes entre elles dans une même application. Au départ, on créee la fenêtre par défaut (Mère) dans laquelle nous avons mis en oeuvre plusieurs fonctionnalités.
 
@@ -15,15 +18,15 @@ L'objectif de ce projet est de gérer deux fenêtres communiquantes entre elles 
 
 Description des boutons:
 
-NEWS: Instancie une nouvelle fille dans la ListBox
+- NEWS: Instancie une nouvelle fille dans la ListBox
 
-CLOSE: Ferme la fenêtre séléctionnée
+- CLOSE: Ferme la fenêtre séléctionnée
 
-SHOW: Affiche la fenêtre Fille selectionnée
+- SHOW: Affiche la fenêtre Fille selectionnée
 
-SHOWDIALOG: Permet aussi, d'ouvrir la fenêtre Fille selectionnée
+- SHOWDIALOG: Permet aussi, d'ouvrir la fenêtre Fille selectionnée
 
-HIDE: Fait disparaitre la fenêtre Fille de la ListBox
+- HIDE: Fait disparaitre la fenêtre Fille de la ListBox
 
 <a href="https://www.casimages.com/i/19040209315124761116185627.png.html" target="_blank" title="hebergement d'image"><img src="https://nsm09.casimages.com/img/2019/04/02//19040209315124761116185627.png" border="0" alt="hebergement d'image" /></a>
 
